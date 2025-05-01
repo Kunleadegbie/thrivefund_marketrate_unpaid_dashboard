@@ -1,0 +1,165 @@
+Go to Git Bash
+
+type cd ThriveFund 
+
+
+Dashboard for calculating profit and ROI separately (Use this)
+
+type streamlit run thrivefund_marketrate_updated_dashboard.py 
+
+File Name is thrivefund_marketrate_updated_dashboard.py
+
+
+
+Dashboard for Client details (use this)
+
+type streamlit run thrivefund_client_dashboard.py 
+
+File Name is thrivefund_client_dashboard.py
+
+
+
+Loans Decision (Use this)
+
+type streamlit run loans_decision_app.py
+
+File Name is loans_decision_app.py
+
+
+
+Credit Risk Management Decision (Use this)
+
+type streamlit run credit_risk_management_app.py
+
+File Name is credit_risk_management_app.py
+
+
+
+........................................................................................
+
+
+
+Simple interest
+
+type streamlit run roi_calculator.py
+
+File name is roi_calculator.py
+
+
+Compound Interest (Use this)
+
+type streamlit run thrivefund_roi_calculator.py   
+
+File name is thrivefund_roi_calculator.py
+
+
+Loan Decision
+
+type streamlit run loan_decision_app.py
+
+File Name is loan_decision_app.py
+
+
+Loans Decision (Use this)
+
+type streamlit run loans_decision_app.py
+
+File Name is loans_decision_app.py
+
+
+
+Credit Risk Management Decision (Use this)
+
+type streamlit run credit_risk_management_app.py
+
+File Name is credit_risk_management_app.py
+
+
+
+Dashboard for ThriveFund Investment
+
+type streamlit run thrivefund_dashboard.py
+
+File Name is thrivefund_dashboard.py
+
+
+
+Dashboard for ThriveFund Investment-To Save client details
+
+type streamlit run seedtime_thrivefund_dashboard.py
+
+File Name is seedtime_thrivefund_dashboard.py
+
+
+
+Dashboard for ThriveFund Investment-Multiple deposit and withdrawals 
+
+type streamlit run seedtimecap_thrivefund_dashboard.py
+
+File Name is seedtimecap_thrivefund_dashboard.py
+
+
+
+Dashboard for ThriveFund Investment-Dates added (Use this)
+
+type streamlit run seedtimecapital_thrivefund_dashboard.py
+
+File Name is seedtimecapital_thrivefund_dashboard.py
+
+
+
+Dashboard for ThriveFund Investment-Add changes in Interest rate (Use this)
+
+type streamlit run seedtimecapitalinv_thrivefund_dashboard.py
+
+File Name is seedtimecapitalinv_thrivefund_dashboard.py
+
+
+
+
+Dashboard for Client details (use this)
+
+type streamlit run thrivefund_client_dashboard.py 
+
+File Name is thrivefund_client_dashboard.py
+
+
+
+Dashboard for changing rates in line with market realities 
+
+type streamlit run thrivefund_marketrates_dashboard.py 
+
+File Name is thrivefund_marketrates_dashboard.py
+
+
+Dashboard for changing rates in line with market realities with dates
+
+type streamlit run thrivefund_marketrates_dates_dashboard.py 
+
+File Name is thrivefund_marketrates_dates_dashboard.py
+
+
+
+Dashboard for changing rates in line with market realities with dates
+
+type streamlit run thrivefund_marketrates_updates_dashboard.py 
+
+File Name is thrivefund_marketrates_updates_dashboard.py
+
+
+
+Dashboard for changing rates in line with market realities with dates
+
+type streamlit run thrivefund_marketrates_updated_dashboard.py 
+
+File Name is thrivefund_marketrates_updated_dashboard.py
+
+
+
+Dashboard for calculating profit and ROI separately (Use this)
+
+type streamlit run thrivefund_marketrate_updated_dashboard.py 
+
+File Name is thrivefund_marketrate_updated_dashboard.py
+
+
